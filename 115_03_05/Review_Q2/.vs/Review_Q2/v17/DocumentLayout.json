@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m303\\Desktop\\115_03_05\\Review_Q2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D80E574F-7604-496E-9CE0-3D8AF3C16DED}|Review_Q2\\Review_Q2.csproj|c:\\users\\m303\\desktop\\115_03_05\\review_q2\\review_q2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80E574F-7604-496E-9CE0-3D8AF3C16DED}|Review_Q2\\Review_Q2.csproj|solutionrelative:review_q2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80E574F-7604-496E-9CE0-3D8AF3C16DED}|Review_Q2\\Review_Q2.csproj|C:\\Users\\m303\\Desktop\\115_03_05\\Review_Q2\\review_q2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D80E574F-7604-496E-9CE0-3D8AF3C16DED}|Review_Q2\\Review_Q2.csproj|solutionrelative:review_q2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80E574F-7604-496E-9CE0-3D8AF3C16DED}|Review_Q2\\Review_Q2.csproj|c:\\users\\m303\\desktop\\115_03_05\\review_q2\\review_q2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80E574F-7604-496E-9CE0-3D8AF3C16DED}|Review_Q2\\Review_Q2.csproj|solutionrelative:review_q2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\m303\\Desktop\\115_03_05\\Review_Q2\\Review_Q2\\Form1.cs",
+              "RelativeDocumentMoniker": "Review_Q2\\Form1.cs",
+              "ToolTip": "C:\\Users\\m303\\Desktop\\115_03_05\\Review_Q2\\Review_Q2\\Form1.cs",
+              "RelativeToolTip": "Review_Q2\\Form1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwv3cAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T06:00:21.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\m303\\Desktop\\115_03_05\\Review_Q2\\Review_Q2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Review_Q2\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\m303\\Desktop\\115_03_05\\Review_Q2\\Review_Q2\\Form1.Designer.cs",
+              "RelativeToolTip": "Review_Q2\\Form1.Designer.cs",
+              "ViewState": "AgIAANoAAAAAAAAAAIAwwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:59:43.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\m303\\Desktop\\115_03_05\\Review_Q2\\Review_Q2\\Form1.cs",
+              "RelativeDocumentMoniker": "Review_Q2\\Form1.cs",
+              "ToolTip": "C:\\Users\\m303\\Desktop\\115_03_05\\Review_Q2\\Review_Q2\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Review_Q2\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:56:58.842Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

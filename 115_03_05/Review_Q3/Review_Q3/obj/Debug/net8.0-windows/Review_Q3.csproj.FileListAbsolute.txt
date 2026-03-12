@@ -1,0 +1,16 @@
+C:\Users\m303\Desktop\115_03_05\Review_Q3\Review_Q3\obj\Debug\net8.0-windows\Review_Q3.Form1.resources
+C:\Users\m303\Desktop\115_03_05\Review_Q3\Review_Q3\obj\Debug\net8.0-windows\Review_Q3.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\115_03_05\Review_Q3\Review_Q3\obj\Debug\net8.0-windows\Review_Q3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m303\Desktop\115_03_05\Review_Q3\Review_Q3\obj\Debug\net8.0-windows\Review_Q3.AssemblyInfoInputs.cache
+C:\Users\m303\Desktop\115_03_05\Review_Q3\Review_Q3\obj\Debug\net8.0-windows\Review_Q3.AssemblyInfo.cs
+C:\Users\m303\Desktop\115_03_05\Review_Q3\Review_Q3\obj\Debug\net8.0-windows\Review_Q3.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\115_03_05\Review_Q3\Review_Q3\bin\Debug\net8.0-windows\Review_Q3.exe
+C:\Users\m303\Desktop\115_03_05\Review_Q3\Review_Q3\bin\Debug\net8.0-windows\Review_Q3.deps.json
+C:\Users\m303\Desktop\115_03_05\Review_Q3\Review_Q3\bin\Debug\net8.0-windows\Review_Q3.runtimeconfig.json
+C:\Users\m303\Desktop\115_03_05\Review_Q3\Review_Q3\bin\Debug\net8.0-windows\Review_Q3.dll
+C:\Users\m303\Desktop\115_03_05\Review_Q3\Review_Q3\bin\Debug\net8.0-windows\Review_Q3.pdb
+C:\Users\m303\Desktop\115_03_05\Review_Q3\Review_Q3\obj\Debug\net8.0-windows\Review_Q3.dll
+C:\Users\m303\Desktop\115_03_05\Review_Q3\Review_Q3\obj\Debug\net8.0-windows\refint\Review_Q3.dll
+C:\Users\m303\Desktop\115_03_05\Review_Q3\Review_Q3\obj\Debug\net8.0-windows\Review_Q3.pdb
+C:\Users\m303\Desktop\115_03_05\Review_Q3\Review_Q3\obj\Debug\net8.0-windows\Review_Q3.genruntimeconfig.cache
+C:\Users\m303\Desktop\115_03_05\Review_Q3\Review_Q3\obj\Debug\net8.0-windows\ref\Review_Q3.dll
