@@ -1,0 +1,4 @@
+balance=0
+totalDeposited=104
+totalSpins=22
+winCount=6

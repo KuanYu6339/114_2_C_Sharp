@@ -1,0 +1,194 @@
+[
+  {
+    "Timestamp": "2026-05-07T14:14:40.4169258+08:00",
+    "Spin1": 3,
+    "Spin2": 5,
+    "Spin3": 8,
+    "BetAmount": 1,
+    "WinAmount": 0
+  },
+  {
+    "Timestamp": "2026-05-07T14:14:43.9370058+08:00",
+    "Spin1": 0,
+    "Spin2": 8,
+    "Spin3": 2,
+    "BetAmount": 1,
+    "WinAmount": 0
+  },
+  {
+    "Timestamp": "2026-05-07T14:14:46.1805712+08:00",
+    "Spin1": 8,
+    "Spin2": 6,
+    "Spin3": 6,
+    "BetAmount": 1,
+    "WinAmount": 2
+  },
+  {
+    "Timestamp": "2026-05-07T14:14:49.0129336+08:00",
+    "Spin1": 3,
+    "Spin2": 4,
+    "Spin3": 9,
+    "BetAmount": 1,
+    "WinAmount": 0
+  },
+  {
+    "Timestamp": "2026-05-07T14:14:51.3573536+08:00",
+    "Spin1": 1,
+    "Spin2": 6,
+    "Spin3": 8,
+    "BetAmount": 1,
+    "WinAmount": 0
+  },
+  {
+    "Timestamp": "2026-05-07T14:14:54.250029+08:00",
+    "Spin1": 1,
+    "Spin2": 3,
+    "Spin3": 2,
+    "BetAmount": 50,
+    "WinAmount": 0
+  },
+  {
+    "Timestamp": "2026-05-07T14:15:15.4726301+08:00",
+    "Spin1": 5,
+    "Spin2": 8,
+    "Spin3": 1,
+    "BetAmount": 10,
+    "WinAmount": 0
+  },
+  {
+    "Timestamp": "2026-05-07T14:15:17.8081077+08:00",
+    "Spin1": 3,
+    "Spin2": 6,
+    "Spin3": 6,
+    "BetAmount": 10,
+    "WinAmount": 20
+  },
+  {
+    "Timestamp": "2026-05-07T14:15:21.2115883+08:00",
+    "Spin1": 1,
+    "Spin2": 2,
+    "Spin3": 9,
+    "BetAmount": 10,
+    "WinAmount": 0
+  },
+  {
+    "Timestamp": "2026-05-07T14:17:09.2345973+08:00",
+    "Spin1": 3,
+    "Spin2": 5,
+    "Spin3": 7,
+    "BetAmount": 1,
+    "WinAmount": 0
+  },
+  {
+    "Timestamp": "2026-05-07T14:17:12.6842994+08:00",
+    "Spin1": 0,
+    "Spin2": 8,
+    "Spin3": 3,
+    "BetAmount": 1,
+    "WinAmount": 0
+  },
+  {
+    "Timestamp": "2026-05-07T14:17:14.5716469+08:00",
+    "Spin1": 4,
+    "Spin2": 8,
+    "Spin3": 2,
+    "BetAmount": 1,
+    "WinAmount": 0
+  },
+  {
+    "Timestamp": "2026-05-07T14:17:16.6824074+08:00",
+    "Spin1": 9,
+    "Spin2": 9,
+    "Spin3": 0,
+    "BetAmount": 1,
+    "WinAmount": 2
+  },
+  {
+    "Timestamp": "2026-05-07T14:17:19.6080318+08:00",
+    "Spin1": 2,
+    "Spin2": 6,
+    "Spin3": 8,
+    "BetAmount": 1,
+    "WinAmount": 0
+  },
+  {
+    "Timestamp": "2026-05-07T14:17:21.3473049+08:00",
+    "Spin1": 0,
+    "Spin2": 4,
+    "Spin3": 8,
+    "BetAmount": 1,
+    "WinAmount": 0
+  },
+  {
+    "Timestamp": "2026-05-07T14:17:23.1134943+08:00",
+    "Spin1": 4,
+    "Spin2": 7,
+    "Spin3": 9,
+    "BetAmount": 1,
+    "WinAmount": 0
+  },
+  {
+    "Timestamp": "2026-05-07T14:17:25.110414+08:00",
+    "Spin1": 5,
+    "Spin2": 5,
+    "Spin3": 6,
+    "BetAmount": 1,
+    "WinAmount": 2
+  },
+  {
+    "Timestamp": "2026-05-07T14:17:28.643723+08:00",
+    "Spin1": 0,
+    "Spin2": 3,
+    "Spin3": 0,
+    "BetAmount": 50,
+    "WinAmount": 100
+  },
+  {
+    "Timestamp": "2026-05-07T14:17:31.8334976+08:00",
+    "Spin1": 5,
+    "Spin2": 8,
+    "Spin3": 2,
+    "BetAmount": 50,
+    "WinAmount": 0
+  },
+  {
+    "Timestamp": "2026-05-07T14:17:34.2617271+08:00",
+    "Spin1": 0,
+    "Spin2": 4,
+    "Spin3": 7,
+    "BetAmount": 50,
+    "WinAmount": 0
+  },
+  {
+    "Timestamp": "2026-05-07T14:18:03.8557104+08:00",
+    "Spin1": 5,
+    "Spin2": 2,
+    "Spin3": 6,
+    "BetAmount": 1,
+    "WinAmount": 0
+  },
+  {
+    "Timestamp": "2026-05-07T14:18:06.9592777+08:00",
+    "Spin1": 5,
+    "Spin2": 3,
+    "Spin3": 3,
+    "BetAmount": 50,
+    "WinAmount": 100
+  },
+  {
+    "Timestamp": "2026-05-07T14:18:08.8401546+08:00",
+    "Spin1": 4,
+    "Spin2": 2,
+    "Spin3": 9,
+    "BetAmount": 50,
+    "WinAmount": 0
+  },
+  {
+    "Timestamp": "2026-05-07T14:18:10.6972334+08:00",
+    "Spin1": 3,
+    "Spin2": 9,
+    "Spin3": 5,
+    "BetAmount": 50,
+    "WinAmount": 0
+  }
+]

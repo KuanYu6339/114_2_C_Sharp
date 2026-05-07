@@ -1,0 +1,17 @@
+C:\Users\m303\Desktop\test1150507\test1150507\bin\Debug\net8.0-windows\test1150507.exe
+C:\Users\m303\Desktop\test1150507\test1150507\bin\Debug\net8.0-windows\test1150507.deps.json
+C:\Users\m303\Desktop\test1150507\test1150507\bin\Debug\net8.0-windows\test1150507.runtimeconfig.json
+C:\Users\m303\Desktop\test1150507\test1150507\bin\Debug\net8.0-windows\test1150507.dll
+C:\Users\m303\Desktop\test1150507\test1150507\bin\Debug\net8.0-windows\test1150507.pdb
+C:\Users\m303\Desktop\test1150507\test1150507\obj\Debug\net8.0-windows\test1150507.Form1.resources
+C:\Users\m303\Desktop\test1150507\test1150507\obj\Debug\net8.0-windows\test1150507.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\test1150507\test1150507\obj\Debug\net8.0-windows\test1150507.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m303\Desktop\test1150507\test1150507\obj\Debug\net8.0-windows\test1150507.AssemblyInfoInputs.cache
+C:\Users\m303\Desktop\test1150507\test1150507\obj\Debug\net8.0-windows\test1150507.AssemblyInfo.cs
+C:\Users\m303\Desktop\test1150507\test1150507\obj\Debug\net8.0-windows\test1150507.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\test1150507\test1150507\obj\Debug\net8.0-windows\test1150507.dll
+C:\Users\m303\Desktop\test1150507\test1150507\obj\Debug\net8.0-windows\refint\test1150507.dll
+C:\Users\m303\Desktop\test1150507\test1150507\obj\Debug\net8.0-windows\test1150507.pdb
+C:\Users\m303\Desktop\test1150507\test1150507\obj\Debug\net8.0-windows\test1150507.genruntimeconfig.cache
+C:\Users\m303\Desktop\test1150507\test1150507\obj\Debug\net8.0-windows\ref\test1150507.dll
+C:\Users\m303\Desktop\test1150507\test1150507\obj\Debug\net8.0-windows\test1150507.Properties.Resources.resources
