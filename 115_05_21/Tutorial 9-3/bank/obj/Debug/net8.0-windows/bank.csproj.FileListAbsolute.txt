@@ -1,0 +1,16 @@
+C:\Users\m303\Desktop\115_05_21\bank\bank\bin\Debug\net8.0-windows\bank.exe
+C:\Users\m303\Desktop\115_05_21\bank\bank\bin\Debug\net8.0-windows\bank.deps.json
+C:\Users\m303\Desktop\115_05_21\bank\bank\bin\Debug\net8.0-windows\bank.runtimeconfig.json
+C:\Users\m303\Desktop\115_05_21\bank\bank\bin\Debug\net8.0-windows\bank.dll
+C:\Users\m303\Desktop\115_05_21\bank\bank\bin\Debug\net8.0-windows\bank.pdb
+C:\Users\m303\Desktop\115_05_21\bank\bank\obj\Debug\net8.0-windows\bank.Form1.resources
+C:\Users\m303\Desktop\115_05_21\bank\bank\obj\Debug\net8.0-windows\bank.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\115_05_21\bank\bank\obj\Debug\net8.0-windows\bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m303\Desktop\115_05_21\bank\bank\obj\Debug\net8.0-windows\bank.AssemblyInfoInputs.cache
+C:\Users\m303\Desktop\115_05_21\bank\bank\obj\Debug\net8.0-windows\bank.AssemblyInfo.cs
+C:\Users\m303\Desktop\115_05_21\bank\bank\obj\Debug\net8.0-windows\bank.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\115_05_21\bank\bank\obj\Debug\net8.0-windows\bank.dll
+C:\Users\m303\Desktop\115_05_21\bank\bank\obj\Debug\net8.0-windows\refint\bank.dll
+C:\Users\m303\Desktop\115_05_21\bank\bank\obj\Debug\net8.0-windows\bank.pdb
+C:\Users\m303\Desktop\115_05_21\bank\bank\obj\Debug\net8.0-windows\bank.genruntimeconfig.cache
+C:\Users\m303\Desktop\115_05_21\bank\bank\obj\Debug\net8.0-windows\ref\bank.dll
