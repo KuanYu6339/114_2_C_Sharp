@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Ch9 Tutorial\\Tutorial 9-5\\Multiform Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DC760C-2DBD-4402-BC5F-B1F042A0CBB3}|Multiform Practice\\Multiform Practice.csproj|c:\\users\\user\\source\\repos\\ch9 tutorial\\tutorial 9-5\\multiform practice\\multiform practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DC760C-2DBD-4402-BC5F-B1F042A0CBB3}|Multiform Practice\\Multiform Practice.csproj|solutionrelative:multiform practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DC760C-2DBD-4402-BC5F-B1F042A0CBB3}|Multiform Practice\\Multiform Practice.csproj|c:\\users\\user\\source\\repos\\ch9 tutorial\\tutorial 9-5\\multiform practice\\multiform practice\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DC760C-2DBD-4402-BC5F-B1F042A0CBB3}|Multiform Practice\\Multiform Practice.csproj|solutionrelative:multiform practice\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DC760C-2DBD-4402-BC5F-B1F042A0CBB3}|Multiform Practice\\Multiform Practice.csproj|C:\\Users\\User\\source\\repos\\Ch9 Tutorial\\Tutorial 9-5\\Multiform Practice\\multiform practice\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0DC760C-2DBD-4402-BC5F-B1F042A0CBB3}|Multiform Practice\\Multiform Practice.csproj|solutionrelative:multiform practice\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Ch9 Tutorial\\Tutorial 9-5\\Multiform Practice\\Multiform Practice\\Program.cs",
+              "RelativeDocumentMoniker": "Multiform Practice\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Ch9 Tutorial\\Tutorial 9-5\\Multiform Practice\\Multiform Practice\\Program.cs",
+              "RelativeToolTip": "Multiform Practice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T04:58:47.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Ch9 Tutorial\\Tutorial 9-5\\Multiform Practice\\Multiform Practice\\MainForm.cs",
+              "RelativeDocumentMoniker": "Multiform Practice\\MainForm.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Ch9 Tutorial\\Tutorial 9-5\\Multiform Practice\\Multiform Practice\\MainForm.cs",
+              "RelativeToolTip": "Multiform Practice\\MainForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T04:58:27.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Ch9 Tutorial\\Tutorial 9-5\\Multiform Practice\\Multiform Practice\\MainForm.cs",
+              "RelativeDocumentMoniker": "Multiform Practice\\MainForm.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Ch9 Tutorial\\Tutorial 9-5\\Multiform Practice\\Multiform Practice\\MainForm.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Multiform Practice\\MainForm.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T04:58:28.017Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
