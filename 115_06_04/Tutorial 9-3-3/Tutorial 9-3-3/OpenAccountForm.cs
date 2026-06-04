@@ -1,0 +1,72 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Tutorial_9_3_3
+{
+    public partial class OpenAccountForm : Form
+    {
+        // 儲存帳戶列表的引用
+        private List<BankAccount> accounts;
+
+        // 建構函式 - 接收帳戶列表
+        public OpenAccountForm(List<BankAccount> accountList)
+        {
+            InitializeComponent();
+            this.accounts = accountList;
+        }
+
+        // 確認按鈕點擊事件 - 建立新帳戶
+        private void btnConfirm_Click(object sender, EventArgs e)
+        {
+            // 獲取輸入框中的值
+            string accountNumber = txtAccountNumber.Text;
+            string name = txtName.Text;
+            decimal initialAmount;
+
+            // 驗證開戶金額
+            if (decimal.TryParse(txtInitialBalance.Text, out initialAmount))
+            {
+                // 創建新帳戶
+                BankAccount newAccount = new BankAccount(accountNumber, name, initialAmount);
+                accounts.Add(newAccount);
+                
+                // 顯示成功信息和開戶資訊
+                txtLog.AppendText("帳戶建立成功！\r\n");
+                txtLog.AppendText("================================\r\n");
+                txtLog.AppendText($"帳號：{newAccount.AccountNumber}\r\n");
+                txtLog.AppendText($"姓名：{newAccount.OwnerName}\r\n");
+                txtLog.AppendText($"開戶金額：${newAccount.Balance:F2}\r\n");
+                txtLog.AppendText("================================\r\n");
+                
+                // 清空輸入框
+                txtAccountNumber.Clear();
+                txtName.Clear();
+                txtInitialBalance.Clear();
+            }
+            else
+            {
+                txtLog.AppendText("請輸入有效的開戶金額\r\n");
+            }
+        }
+
+        // 取消按鈕點擊事件
+        private void btnCancel_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        // 離開按鈕點擊事件
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+    }
+}
+

@@ -1,0 +1,175 @@
+﻿namespace Tutorial_9_3_3
+{
+    partial class OpenAccountForm
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        // 宣告表單控制項
+        private System.Windows.Forms.Label lblAccountNumber;
+        private System.Windows.Forms.TextBox txtAccountNumber;
+        private System.Windows.Forms.Label lblName;
+        private System.Windows.Forms.TextBox txtName;
+        private System.Windows.Forms.Label lblInitialBalance;
+        private System.Windows.Forms.TextBox txtInitialBalance;
+        private System.Windows.Forms.Button btnConfirm;
+        private System.Windows.Forms.Button btnCancel;
+        private System.Windows.Forms.Button btnExit;
+        private System.Windows.Forms.TextBox txtLog;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.lblAccountNumber = new System.Windows.Forms.Label();
+            this.txtAccountNumber = new System.Windows.Forms.TextBox();
+            this.lblName = new System.Windows.Forms.Label();
+            this.txtName = new System.Windows.Forms.TextBox();
+            this.lblInitialBalance = new System.Windows.Forms.Label();
+            this.txtInitialBalance = new System.Windows.Forms.TextBox();
+            this.btnConfirm = new System.Windows.Forms.Button();
+            this.btnCancel = new System.Windows.Forms.Button();
+            this.btnExit = new System.Windows.Forms.Button();
+            this.txtLog = new System.Windows.Forms.TextBox();
+            this.SuspendLayout();
+            // 
+            // lblAccountNumber
+            // 
+            this.lblAccountNumber.AutoSize = true;
+            this.lblAccountNumber.Font = new System.Drawing.Font("微軟正黑體", 14F);
+            this.lblAccountNumber.Location = new System.Drawing.Point(30, 30);
+            this.lblAccountNumber.Name = "lblAccountNumber";
+            this.lblAccountNumber.Size = new System.Drawing.Size(99, 35);
+            this.lblAccountNumber.TabIndex = 0;
+            this.lblAccountNumber.Text = "帳號：";
+            // 
+            // txtAccountNumber
+            // 
+            this.txtAccountNumber.Font = new System.Drawing.Font("微軟正黑體", 14F);
+            this.txtAccountNumber.Location = new System.Drawing.Point(191, 27);
+            this.txtAccountNumber.Name = "txtAccountNumber";
+            this.txtAccountNumber.Size = new System.Drawing.Size(300, 45);
+            this.txtAccountNumber.TabIndex = 1;
+            // 
+            // lblName
+            // 
+            this.lblName.AutoSize = true;
+            this.lblName.Font = new System.Drawing.Font("微軟正黑體", 14F);
+            this.lblName.Location = new System.Drawing.Point(30, 80);
+            this.lblName.Name = "lblName";
+            this.lblName.Size = new System.Drawing.Size(99, 35);
+            this.lblName.TabIndex = 2;
+            this.lblName.Text = "姓名：";
+            // 
+            // txtName
+            // 
+            this.txtName.Font = new System.Drawing.Font("微軟正黑體", 14F);
+            this.txtName.Location = new System.Drawing.Point(191, 77);
+            this.txtName.Name = "txtName";
+            this.txtName.Size = new System.Drawing.Size(300, 45);
+            this.txtName.TabIndex = 3;
+            // 
+            // lblInitialBalance
+            // 
+            this.lblInitialBalance.AutoSize = true;
+            this.lblInitialBalance.Font = new System.Drawing.Font("微軟正黑體", 14F);
+            this.lblInitialBalance.Location = new System.Drawing.Point(30, 130);
+            this.lblInitialBalance.Name = "lblInitialBalance";
+            this.lblInitialBalance.Size = new System.Drawing.Size(155, 35);
+            this.lblInitialBalance.TabIndex = 4;
+            this.lblInitialBalance.Text = "開戶金額：";
+            // 
+            // txtInitialBalance
+            // 
+            this.txtInitialBalance.Font = new System.Drawing.Font("微軟正黑體", 14F);
+            this.txtInitialBalance.Location = new System.Drawing.Point(191, 127);
+            this.txtInitialBalance.Name = "txtInitialBalance";
+            this.txtInitialBalance.Size = new System.Drawing.Size(300, 45);
+            this.txtInitialBalance.TabIndex = 5;
+            // 確認按鈕
+            this.btnConfirm.Font = new System.Drawing.Font("微軟正黑體", 14F);
+            this.btnConfirm.Location = new System.Drawing.Point(191, 174);
+            this.btnConfirm.Name = "btnConfirm";
+            this.btnConfirm.Size = new System.Drawing.Size(100, 40);
+            this.btnConfirm.TabIndex = 6;
+            this.btnConfirm.Text = "建立帳戶";
+            this.btnConfirm.UseVisualStyleBackColor = true;
+            this.btnConfirm.Click += new System.EventHandler(this.btnConfirm_Click);
+            // 
+            // 取消按鈕
+            // 
+            this.btnCancel.Font = new System.Drawing.Font("微軟正黑體", 14F);
+            this.btnCancel.Location = new System.Drawing.Point(371, 174);
+            this.btnCancel.Name = "btnCancel";
+            this.btnCancel.Size = new System.Drawing.Size(100, 40);
+            this.btnCancel.TabIndex = 7;
+            this.btnCancel.Text = "取消";
+            this.btnCancel.UseVisualStyleBackColor = true;
+            this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
+            // 
+            // 離開按鈕
+            // 
+            this.btnExit.Font = new System.Drawing.Font("微軟正黑體", 14F);
+            this.btnExit.Location = new System.Drawing.Point(551, 174);
+            this.btnExit.Name = "btnExit";
+            this.btnExit.Size = new System.Drawing.Size(100, 40);
+            this.btnExit.TabIndex = 8;
+            this.btnExit.Text = "離開";
+            this.btnExit.UseVisualStyleBackColor = true;
+            this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
+            // 
+            // txtLog
+            // 
+            this.txtLog.Font = new System.Drawing.Font("微軟正黑體", 12F);
+            this.txtLog.Location = new System.Drawing.Point(30, 220);
+            this.txtLog.Multiline = true;
+            this.txtLog.Name = "txtLog";
+            this.txtLog.ReadOnly = true;
+            this.txtLog.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
+            this.txtLog.Size = new System.Drawing.Size(700, 200);
+            this.txtLog.TabIndex = 9;
+            // 
+            // OpenAccountForm
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(750, 450);
+            this.Controls.Add(this.lblAccountNumber);
+            this.Controls.Add(this.txtAccountNumber);
+            this.Controls.Add(this.lblName);
+            this.Controls.Add(this.txtName);
+            this.Controls.Add(this.lblInitialBalance);
+            this.Controls.Add(this.txtInitialBalance);
+            this.Controls.Add(this.btnConfirm);
+            this.Controls.Add(this.btnCancel);
+            this.Controls.Add(this.btnExit);
+            this.Controls.Add(this.txtLog);
+            this.Name = "OpenAccountForm";
+            this.Text = "建立帳戶";
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+    }
+}

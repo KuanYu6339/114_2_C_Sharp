@@ -1,0 +1,88 @@
+﻿namespace Tutorial_9_3_3
+{
+    partial class OpenAccountForm
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            // 建立標籤和文本框用於輸入客戶名稱
+            this.lblName = new System.Windows.Forms.Label();
+            this.txtName = new System.Windows.Forms.TextBox();
+            // 建立確認和取消按鈕
+            this.btnConfirm = new System.Windows.Forms.Button();
+            this.btnCancel = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            
+            // 客戶名稱標籤設定
+            this.lblName.AutoSize = true;
+            this.lblName.Font = new System.Drawing.Font("微軟正黑體", 18F);
+            this.lblName.Location = new System.Drawing.Point(50, 50);
+            this.lblName.Name = "lblName";
+            this.lblName.Size = new System.Drawing.Size(150, 38);
+            this.lblName.TabIndex = 0;
+            this.lblName.Text = "客戶名稱：";
+            
+            // 客戶名稱文本框設定
+            this.txtName.Font = new System.Drawing.Font("微軟正黑體", 18F);
+            this.txtName.Location = new System.Drawing.Point(220, 47);
+            this.txtName.Name = "txtName";
+            this.txtName.Size = new System.Drawing.Size(400, 47);
+            this.txtName.TabIndex = 1;
+            
+            // 確認按鈕設定
+            this.btnConfirm.Font = new System.Drawing.Font("微軟正黑體", 18F);
+            this.btnConfirm.Location = new System.Drawing.Point(200, 150);
+            this.btnConfirm.Name = "btnConfirm";
+            this.btnConfirm.Size = new System.Drawing.Size(150, 60);
+            this.btnConfirm.TabIndex = 2;
+            this.btnConfirm.Text = "確認";
+            this.btnConfirm.UseVisualStyleBackColor = true;
+            
+            // 取消按鈕設定
+            this.btnCancel.Font = new System.Drawing.Font("微軟正黑體", 18F);
+            this.btnCancel.Location = new System.Drawing.Point(450, 150);
+            this.btnCancel.Name = "btnCancel";
+            this.btnCancel.Size = new System.Drawing.Size(150, 60);
+            this.btnCancel.TabIndex = 3;
+            this.btnCancel.Text = "取消";
+            this.btnCancel.UseVisualStyleBackColor = true;
+            
+            // 開戶表單設定
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.lblName);
+            this.Controls.Add(this.txtName);
+            this.Controls.Add(this.btnConfirm);
+            this.Controls.Add(this.btnCancel);
+            this.Name = "OpenAccountForm";
+            this.Text = "開戶";
+            this.ResumeLayout(false);
+            this.PerformLayout();
+        }
+
+        #endregion
+    }
+}

@@ -1,0 +1,76 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Tutorial_9_3_3
+{
+    public partial class OpenAccountForm : Form
+    {
+        // 儲存帳戶列表的引用
+        private List<BankAccount> accounts;
+
+        // 建構函式 - 接收帳戶列表
+        public OpenAccountForm(List<BankAccount> accountList)
+        {
+            InitializeComponent();
+            this.accounts = accountList;
+        }
+
+        // 確認按鈕點擊事件 - 建立新帳戶
+        private void btnConfirm_Click(object sender, EventArgs e)
+        {
+            // 驗證輸入
+            if (string.IsNullOrWhiteSpace(txtAccountNumber.Text))
+            {
+                MessageBox.Show("帳號不能為空", "錯誤", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+            if (string.IsNullOrWhiteSpace(txtName.Text))
+            {
+                MessageBox.Show("姓名不能為空", "錯誤", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+            if (!decimal.TryParse(txtInitialBalance.Text, out decimal initialBalance) || initialBalance < 0)
+            {
+                MessageBox.Show("開戶金額必須是有效的正數", "錯誤", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+            // 建立新帳戶
+            BankAccount newAccount = new BankAccount(
+                txtAccountNumber.Text,
+                txtName.Text,
+                initialBalance
+            );
+
+            // 添加到列表
+            accounts.Add(newAccount);
+
+            // 顯示成功信息
+            txtLog.AppendText($"[成功] 帳號 {newAccount.AccountNumber} 開戶成功\r\n");
+            txtLog.AppendText($"姓名：{newAccount.OwnerName}\r\n");
+            txtLog.AppendText($"開戶金額：${newAccount.Balance:F2}\r\n");
+            txtLog.AppendText("------------------------------\r\n");
+
+            // 清空輸入框
+            txtAccountNumber.Clear();
+            txtName.Clear();
+            txtInitialBalance.Clear();
+        }
+
+        // 取消按鈕點擊事件
+        private void btnCancel_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+    }
+}
+

@@ -1,0 +1,65 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Tutorial_9_3_3
+{
+    public partial class MainForm : Form
+    {
+        // 儲存銀行帳戶的列表
+        public List<BankAccount> accounts = new List<BankAccount>();
+
+        // 建構函式
+        public MainForm()
+        {
+            InitializeComponent();
+        }
+
+        // 開戶按鈕點擊事件
+        private void btnOpenAccount_Click(object sender, EventArgs e)
+        {
+            // 打開開戶表單，傳遞帳戶列表
+            OpenAccountForm openAccountForm = new OpenAccountForm(accounts);
+            openAccountForm.ShowDialog();
+            
+            // 更新已開戶用戶數
+            lblAccountCount.Text = $"已開戶用戶數：{accounts.Count}";
+        }
+
+        // 存款按鈕點擊事件
+        private void btnDeposit_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("存款功能開發中", "提示", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+
+        // 提款按鈕點擊事件
+        private void btnWithdraw_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("提款功能開發中", "提示", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+
+        // 離開按鈕點擊事件
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            // 顯示確認對話框
+            DialogResult result = MessageBox.Show(
+                "確定要離開程式嗎？",
+                "離開確認",
+                MessageBoxButtons.YesNo,
+                MessageBoxIcon.Question
+            );
+
+            // 如果用戶選擇「是」，則關閉應用程式
+            if (result == DialogResult.Yes)
+            {
+                this.Close();
+            }
+        }
+    }
+}
